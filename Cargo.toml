@@ -1,0 +1,18 @@
+[package]
+name = "launcher_rewrite_remake"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+druid = { version = "0.8.3", features = ["svg", "im"] }
+
+reqwest = { version = "0.10", features = ["json", "blocking"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+[build-dependencies]
+winresource = "0.1.19"
+
+[profile.release]
+opt-level = 3
