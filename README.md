@@ -5,11 +5,9 @@
 
 - interface
 - [x] Соединить интерфейс с новостями о обновлениях проекта.
-...
 
 - Settings Menu
 - [ ] 
-...
 
 - installation 
 
