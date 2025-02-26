@@ -1,6 +1,8 @@
 # zone_launcher
 Первый в мире лаунчер, разработанный на языке Rust, эксклюзивно для проекта по Minecraft.
 
+![image](https://github.com/user-attachments/assets/0d750964-5e9a-4f23-9b71-758f3f54a600)
+
 ## Функционал (WIP)
 
 - interface
